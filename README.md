@@ -1,2 +1,2 @@
-# Enhanced-Privacy-Preserving-Federated-Class-Incremental-Learning--AGSMC
+# Enhanced-Privacy-Preserving-Federated-Class-Incremental-Learning--Adaptive Gradient Sensitive Memory Consolidation
 This project introduces an enhanced privacy-preserving federated class incremental learning framework using adaptive gradient-sensitive memory consolidation. It enables continuous learning of new classes while preventing catastrophic forgetting and ensuring data privacy in distributed environments
